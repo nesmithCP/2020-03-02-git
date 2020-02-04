@@ -7,4 +7,4 @@ But it does seem like I've managed to do it with the help of my command line his
 
 Hurray, we did it!
 
-##Editing locally with version control.
+## Editing locally with version control.
